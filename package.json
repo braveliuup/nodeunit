@@ -1,0 +1,11 @@
+{
+  "name": "nodeunit",
+  "version": "1.0.0",
+  "description": "nodeunit单元测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
